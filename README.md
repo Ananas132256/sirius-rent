@@ -3,10 +3,10 @@
 ## Запуск
 1. Установи Python 3.11+
 2. В папке проекта выполни:
-python -m venv venv
-venv\Scripts\activate
-pip install fastapi uvicorn sqlalchemy pydantic
-python main.py
+- python -m venv venv
+- venv\Scripts\activate
+- pip install fastapi uvicorn sqlalchemy pydantic
+- python main.py
 3. Открой в браузере: http://127.0.0.1:8000/docs
 
 ## API
