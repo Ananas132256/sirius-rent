@@ -7,7 +7,7 @@
 - venv\Scripts\activate
 - pip install fastapi uvicorn sqlalchemy pydantic
 - python main.py
-3. Открой в браузере: http://127.0.0.1:8000/docs
+3. Открой в браузере: http://127.0.0.1:8000/docs или http://127.0.0.1:8000
 
 ## API
 - POST /rooms — создать комнату
